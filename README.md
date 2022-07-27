@@ -1,1 +1,1 @@
-# building-calculator-in-JS
+# building-calculator-in-Java Script
